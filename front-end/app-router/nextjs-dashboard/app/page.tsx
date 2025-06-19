@@ -36,8 +36,8 @@ export default function Page() {
           <Image 
             src="/hero-desktop.png"
             alt='Screenshots of the dashboard project showing desktop version'
-            width={1000} // is only the aspect ratio th the image, not the size the image will be rendered.
-            height={760} // is only the aspect ratio th the image, not the size the image will be rendered.
+            width={1000} // is only the aspect ratio the image, not the size the image will be rendered.
+            height={760} // is only the aspect ratio the image, not the size the image will be rendered.
             className='hidden md:block'
           />
           <Image 
